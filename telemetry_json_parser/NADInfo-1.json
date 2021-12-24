@@ -1,0 +1,103 @@
+{
+  "NADInfo": {
+    "xmlns:ns8": "http://www.cisco.com/PeakCountsInfo",
+    "xmlns": "http://www.cisco.com/NADInfo",
+    "NodeList": {
+      "Node": {
+        "NADProfileInfo": [
+          {
+            "isTacacsSupported": true,
+            "Name": "Cisco",
+            "isTrustSecSupported": true,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": true
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "ArubaWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "MotorolaWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "HPWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "HPWired",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "AlcatelWired",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "BrocadeWired",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "RuckusWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "HPWired_SNMP_CoA",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          }
+        ],
+        "NAD": [
+          {
+            "ProfileName": "Cisco",
+            "Name": "ISE_EST_Local_Host"
+          },
+          {
+            "ProfileName": "ArubaWireless",
+            "Name": "Wireless"
+          }
+        ]
+      },
+      "Scope": "deployment"
+    },
+    "xmlns:ns2": "http://www.cisco.com/ProfilerInfo",
+    "xmlns:ns3": "http://www.cisco.com/NetworkAccessInfo",
+    "xmlns:ns6": "http://www.cisco.com/DeploymentInfo",
+    "xmlns:ns7": "http://www.cisco.com/CountersInfo",
+    "xmlns:ns4": "http://www.cisco.com/MDMInfo",
+    "xmlns:ns5": "http://www.cisco.com/LicenseInfo",
+    "DeploymentID": "b15c2661-8ecb-4722-b458-9c9e6d5a5edf",
+    "xmlns:ns9": "http://www.cisco.com/PostureInfo"
+  }
+}

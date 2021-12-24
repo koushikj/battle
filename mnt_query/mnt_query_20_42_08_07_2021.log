@@ -1,0 +1,140 @@
+2021-07-08 20:42:39,236 mnt call - 0
+2021-07-08 20:42:39,243 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:39,254 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0610>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:39,254 -----------------------------------------------------------------
+2021-07-08 20:42:40,257 mnt call - 1
+2021-07-08 20:42:40,260 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:40,272 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0cd0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:40,272 -----------------------------------------------------------------
+2021-07-08 20:42:41,278 mnt call - 1
+2021-07-08 20:42:41,280 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:41,291 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0bd0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:41,291 -----------------------------------------------------------------
+2021-07-08 20:42:42,297 mnt call - 1
+2021-07-08 20:42:42,299 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:42,310 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0590>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:42,310 -----------------------------------------------------------------
+2021-07-08 20:42:43,314 mnt call - 1
+2021-07-08 20:42:43,318 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:43,333 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0c50>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:43,333 -----------------------------------------------------------------
+2021-07-08 20:42:44,337 mnt call - 1
+2021-07-08 20:42:44,339 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:44,350 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0d10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:44,350 -----------------------------------------------------------------
+2021-07-08 20:42:45,354 mnt call - 1
+2021-07-08 20:42:45,356 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:45,369 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0c10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:45,369 -----------------------------------------------------------------
+2021-07-08 20:42:46,373 mnt call - 1
+2021-07-08 20:42:46,375 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:46,386 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0c90>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:46,386 -----------------------------------------------------------------
+2021-07-08 20:42:47,390 mnt call - 1
+2021-07-08 20:42:47,393 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:47,404 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0b10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:47,404 -----------------------------------------------------------------
+2021-07-08 20:42:48,406 mnt call - 1
+2021-07-08 20:42:48,409 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:48,420 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0290>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:48,420 -----------------------------------------------------------------
+2021-07-08 20:42:49,424 mnt call - 1
+2021-07-08 20:42:49,426 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:49,437 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0550>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:49,437 -----------------------------------------------------------------
+2021-07-08 20:42:50,441 mnt call - 1
+2021-07-08 20:42:50,446 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:50,462 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b00d0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:50,462 -----------------------------------------------------------------
+2021-07-08 20:42:51,466 mnt call - 1
+2021-07-08 20:42:51,468 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:51,482 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0a50>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:51,482 -----------------------------------------------------------------
+2021-07-08 20:42:52,486 mnt call - 1
+2021-07-08 20:42:52,491 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:52,506 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0610>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:52,506 -----------------------------------------------------------------
+2021-07-08 20:42:53,507 mnt call - 1
+2021-07-08 20:42:53,509 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:53,521 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0950>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:53,521 -----------------------------------------------------------------
+2021-07-08 20:42:54,524 mnt call - 1
+2021-07-08 20:42:54,526 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:54,538 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0090>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:54,538 -----------------------------------------------------------------
+2021-07-08 20:42:55,541 mnt call - 1
+2021-07-08 20:42:55,542 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:55,555 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0750>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:55,555 -----------------------------------------------------------------
+2021-07-08 20:42:56,559 mnt call - 1
+2021-07-08 20:42:56,564 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:56,589 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0310>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:56,590 -----------------------------------------------------------------
+2021-07-08 20:42:57,590 mnt call - 1
+2021-07-08 20:42:57,591 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:57,603 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0650>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:57,604 -----------------------------------------------------------------
+2021-07-08 20:42:58,608 mnt call - 1
+2021-07-08 20:42:58,610 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:58,623 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0150>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:58,623 -----------------------------------------------------------------
+2021-07-08 20:42:59,626 mnt call - 1
+2021-07-08 20:42:59,628 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:42:59,639 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0a10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:42:59,640 -----------------------------------------------------------------
+2021-07-08 20:43:00,643 mnt call - 1
+2021-07-08 20:43:00,646 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:00,657 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0390>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:00,657 -----------------------------------------------------------------
+2021-07-08 20:43:01,657 mnt call - 1
+2021-07-08 20:43:01,660 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:01,671 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0910>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:01,671 -----------------------------------------------------------------
+2021-07-08 20:43:02,675 mnt call - 1
+2021-07-08 20:43:02,677 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:02,689 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0250>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:02,689 -----------------------------------------------------------------
+2021-07-08 20:43:03,689 mnt call - 1
+2021-07-08 20:43:03,693 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:03,704 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0810>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:03,704 -----------------------------------------------------------------
+2021-07-08 20:43:04,707 mnt call - 1
+2021-07-08 20:43:04,709 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:04,721 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0050>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:04,721 -----------------------------------------------------------------
+2021-07-08 20:43:05,725 mnt call - 1
+2021-07-08 20:43:05,727 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:05,740 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0350>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:05,740 -----------------------------------------------------------------
+2021-07-08 20:43:06,745 mnt call - 1
+2021-07-08 20:43:06,747 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:06,758 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b02d0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:06,758 -----------------------------------------------------------------
+2021-07-08 20:43:07,764 mnt call - 1
+2021-07-08 20:43:07,765 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:07,777 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0cd0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:07,777 -----------------------------------------------------------------
+2021-07-08 20:43:08,778 mnt call - 1
+2021-07-08 20:43:08,781 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:08,792 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0110>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:08,793 -----------------------------------------------------------------
+2021-07-08 20:43:09,796 mnt call - 1
+2021-07-08 20:43:09,798 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:09,809 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0590>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:09,809 -----------------------------------------------------------------
+2021-07-08 20:43:10,809 mnt call - 1
+2021-07-08 20:43:10,812 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:10,823 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0410>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:10,823 -----------------------------------------------------------------
+2021-07-08 20:43:11,827 mnt call - 1
+2021-07-08 20:43:11,829 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:11,850 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0d10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:11,850 -----------------------------------------------------------------
+2021-07-08 20:43:12,851 mnt call - 1
+2021-07-08 20:43:12,854 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:12,865 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0bd0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:12,866 -----------------------------------------------------------------
+2021-07-08 20:43:13,870 mnt call - 1
+2021-07-08 20:43:13,872 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:13,883 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1016b0c90>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:13,883 -----------------------------------------------------------------

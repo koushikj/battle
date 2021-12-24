@@ -1,0 +1,7 @@
+2021-07-11 16:18:20,421 mnt call - 0
+2021-07-11 16:18:20,430 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-11 16:33:21,210 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 401 649
+2021-07-11 16:33:21,215 Failed to get response No JSON object could be decoded
+2021-07-11 16:33:21,215 -----------------------------------------------------------------
+2021-07-11 16:33:22,220 mnt call - 1
+2021-07-11 16:33:22,224 Starting new HTTPS connection (1): 10.126.68.193:443

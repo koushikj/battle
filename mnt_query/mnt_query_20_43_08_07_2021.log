@@ -1,0 +1,60 @@
+2021-07-08 20:43:15,713 mnt call - 0
+2021-07-08 20:43:15,719 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:15,731 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e610>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:15,731 -----------------------------------------------------------------
+2021-07-08 20:43:16,736 mnt call - 1
+2021-07-08 20:43:16,739 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:16,750 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ecd0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:16,750 -----------------------------------------------------------------
+2021-07-08 20:43:17,753 mnt call - 2
+2021-07-08 20:43:17,756 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:17,770 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ebd0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:17,770 -----------------------------------------------------------------
+2021-07-08 20:43:18,774 mnt call - 3
+2021-07-08 20:43:18,777 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:18,788 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e590>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:18,789 -----------------------------------------------------------------
+2021-07-08 20:43:19,791 mnt call - 4
+2021-07-08 20:43:19,796 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:19,809 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ec50>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:19,810 -----------------------------------------------------------------
+2021-07-08 20:43:20,813 mnt call - 5
+2021-07-08 20:43:20,827 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:20,847 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ed10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:20,847 -----------------------------------------------------------------
+2021-07-08 20:43:21,850 mnt call - 6
+2021-07-08 20:43:21,852 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:21,863 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ec10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:21,863 -----------------------------------------------------------------
+2021-07-08 20:43:22,867 mnt call - 7
+2021-07-08 20:43:22,869 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:22,880 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ec90>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:22,880 -----------------------------------------------------------------
+2021-07-08 20:43:23,884 mnt call - 8
+2021-07-08 20:43:23,886 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:23,898 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4eb10>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:23,898 -----------------------------------------------------------------
+2021-07-08 20:43:24,903 mnt call - 9
+2021-07-08 20:43:24,906 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:24,917 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e290>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:24,917 -----------------------------------------------------------------
+2021-07-08 20:43:25,920 mnt call - 10
+2021-07-08 20:43:25,922 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:25,933 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e550>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:25,934 -----------------------------------------------------------------
+2021-07-08 20:43:26,938 mnt call - 11
+2021-07-08 20:43:26,941 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:26,958 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e0d0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:26,959 -----------------------------------------------------------------
+2021-07-08 20:43:27,964 mnt call - 12
+2021-07-08 20:43:27,966 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:27,983 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4ea50>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:27,983 -----------------------------------------------------------------
+2021-07-08 20:43:28,983 mnt call - 13
+2021-07-08 20:43:28,986 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:29,001 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e610>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:29,002 -----------------------------------------------------------------
+2021-07-08 20:43:30,006 mnt call - 14
+2021-07-08 20:43:30,011 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:43:30,025 Failed to get response HTTPSConnectionPool(host='10.126.68.193', port=443): Max retries exceeded with url: /admin/API/mnt/Telemetry/getAuthTypeInfoData (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10fa4e950>: Failed to establish a new connection: [Errno 61] Connection refused',))
+2021-07-08 20:43:30,025 -----------------------------------------------------------------

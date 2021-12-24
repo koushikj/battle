@@ -1,0 +1,204 @@
+{
+  "NADInfo": {
+    "xmlns:ns8": "http://www.cisco.com/CountersInfo",
+    "xmlns": "http://www.cisco.com/NADInfo",
+    "NodeList": {
+      "Node": {
+        "NADProfileInfo": [
+          {
+            "isTacacsSupported": true,
+            "Name": "Cisco",
+            "isTrustSecSupported": true,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": true
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "ArubaWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "MotorolaWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "HPWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "HPWired",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "AlcatelWired",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "BrocadeWired",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "RuckusWireless",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          },
+          {
+            "isTacacsSupported": true,
+            "Name": "HPWired_SNMP_CoA",
+            "isTrustSecSupported": false,
+            "isCiscoProvided": true,
+            "isRadiusSupported": true,
+            "isDefProfile": false
+          }
+        ],
+        "NAD": [
+          {
+            "ProfileName": "Cisco",
+            "Name": "AP_10ANDAR_05"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "SWA-PLT-09-01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "ModelName": "Unknown",
+            "Name": "SWD-PLT-DC-01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-08-03"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-08-04"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-08-05"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "FTD_INSIDE"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "AP_10ANDAR_04"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "Cisco_FMC"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ISE_EST_Local_Host"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "FW-PLT-DC-01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-09-02"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "AP_10ANDAR_02"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "SWA-PLT-08-01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-09-06"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-08-02"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-08-06"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-09-04"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-09-01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "FTD_1"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-09-03"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "AP_10ANDAR_01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "AP_10ANDAR_03"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-08-01"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "ACP-PLT-09-05"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "FTD_2"
+          },
+          {
+            "ProfileName": "Cisco",
+            "Name": "SWA-PLT-10-01_copy"
+          }
+        ]
+      },
+      "Scope": "deployment"
+    },
+    "xmlns:ns2": "http://www.cisco.com/DeploymentInfo",
+    "xmlns:ns3": "http://www.cisco.com/LicenseInfo",
+    "xmlns:ns6": "http://www.cisco.com/PeakCountsInfo",
+    "xmlns:ns7": "http://www.cisco.com/NetworkAccessInfo",
+    "xmlns:ns4": "http://www.cisco.com/MDMInfo",
+    "xmlns:ns5": "http://www.cisco.com/ProfilerInfo",
+    "DeploymentID": "52da7618-c792-46f4-9c09-8a1abed23c2b",
+    "xmlns:ns9": "http://www.cisco.com/PostureInfo"
+  }
+}

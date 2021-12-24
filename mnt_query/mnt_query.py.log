@@ -1,0 +1,8 @@
+2021-07-08 20:29:16,870 mnt call - 0
+2021-07-08 20:29:16,876 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:30:38,584 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 200 1035
+2021-07-08 20:30:38,587 response = {"authTypeInfoUniqueMacAddressPassedFailed": [{"passedSessionCount": 0, "authenticationProtocol": "PAP_ASCII", "failedFlag": 0, "totalEndpointsCount": 0, "passedFlag": 1, "sessionCount": 0, "failedEndpointsCount": 0, "passedEndpointsCount": 0, "endpointCount": 235025, "failedSessionCount": 0, "authenticationMethod": "PAP_ASCII"}], "externalIdSourceInfo": [], "authTypeInfoUniqueMacAddress": [{"passedSessionCount": 0, "authenticationProtocol": "PAP_ASCII", "failedFlag": 0, "totalEndpointsCount": 235025, "passedFlag": 0, "sessionCount": 0, "failedEndpointsCount": 0, "passedEndpointsCount": 0, "endpointCount": 0, "failedSessionCount": 0, "authenticationMethod": "PAP_ASCII"}], "nadProfileInfo": [], "authTypeInfoUniqueGuidPassedFailed": [], "authTypeInfoSessionCounts": [{"passedSessionCount": 0, "authenticationProtocol": "PAP_ASCII", "failedFlag": 0, "totalEndpointsCount": 0, "passedFlag": 1, "sessionCount": 2122874, "failedEndpointsCount": 0, "passedEndpointsCount": 0, "endpointCount": 0, "failedSessionCount": 0, "authenticationMethod": "PAP_ASCII"}], "activeNadCount": 0, "authTypeInfoUniqueGuid": []}
+2021-07-08 20:30:38,587 endpointCount = 235025
+2021-07-08 20:30:38,587 sessionCount = 2122874
+2021-07-08 20:30:38,587 time taken (in minutes) = 1.36193948189
+2021-07-08 20:30:38,587 -----------------------------------------------------------------

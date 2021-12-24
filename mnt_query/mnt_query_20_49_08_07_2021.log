@@ -1,0 +1,105 @@
+2021-07-08 20:49:19,241 mnt call - 0
+2021-07-08 20:49:19,250 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:19,344 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:19,346 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:19,346 -----------------------------------------------------------------
+2021-07-08 20:49:20,349 mnt call - 1
+2021-07-08 20:49:20,351 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:20,481 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:20,484 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:20,484 -----------------------------------------------------------------
+2021-07-08 20:49:21,487 mnt call - 2
+2021-07-08 20:49:21,490 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:21,599 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:21,601 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:21,601 -----------------------------------------------------------------
+2021-07-08 20:49:22,606 mnt call - 3
+2021-07-08 20:49:22,608 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:22,696 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:22,699 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:22,699 -----------------------------------------------------------------
+2021-07-08 20:49:23,703 mnt call - 4
+2021-07-08 20:49:23,705 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:23,806 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:23,808 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:23,808 -----------------------------------------------------------------
+2021-07-08 20:49:24,809 mnt call - 5
+2021-07-08 20:49:24,812 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:25,061 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:25,064 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:25,064 -----------------------------------------------------------------
+2021-07-08 20:49:26,068 mnt call - 6
+2021-07-08 20:49:26,071 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:26,168 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:26,170 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:26,170 -----------------------------------------------------------------
+2021-07-08 20:49:27,174 mnt call - 7
+2021-07-08 20:49:27,177 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:27,265 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:27,268 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:27,268 -----------------------------------------------------------------
+2021-07-08 20:49:28,273 mnt call - 8
+2021-07-08 20:49:28,276 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:28,382 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:28,387 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:28,388 -----------------------------------------------------------------
+2021-07-08 20:49:29,392 mnt call - 9
+2021-07-08 20:49:29,394 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:29,501 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:29,504 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:29,504 -----------------------------------------------------------------
+2021-07-08 20:49:30,509 mnt call - 10
+2021-07-08 20:49:30,511 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:30,629 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:30,632 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:30,632 -----------------------------------------------------------------
+2021-07-08 20:49:31,636 mnt call - 11
+2021-07-08 20:49:31,640 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:31,749 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:31,754 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:31,754 -----------------------------------------------------------------
+2021-07-08 20:49:32,759 mnt call - 12
+2021-07-08 20:49:32,763 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:32,861 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:32,865 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:32,866 -----------------------------------------------------------------
+2021-07-08 20:49:33,870 mnt call - 13
+2021-07-08 20:49:33,872 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:33,973 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:33,975 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:33,975 -----------------------------------------------------------------
+2021-07-08 20:49:34,977 mnt call - 14
+2021-07-08 20:49:34,980 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:35,088 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:35,091 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:35,091 -----------------------------------------------------------------
+2021-07-08 20:49:36,092 mnt call - 15
+2021-07-08 20:49:36,094 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:36,190 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:36,192 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:36,192 -----------------------------------------------------------------
+2021-07-08 20:49:37,195 mnt call - 16
+2021-07-08 20:49:37,197 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:37,309 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:37,311 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:37,311 -----------------------------------------------------------------
+2021-07-08 20:49:38,311 mnt call - 17
+2021-07-08 20:49:38,314 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:38,773 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:38,776 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:38,776 -----------------------------------------------------------------
+2021-07-08 20:49:39,777 mnt call - 18
+2021-07-08 20:49:39,779 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:39,871 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:39,873 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:39,873 -----------------------------------------------------------------
+2021-07-08 20:49:40,877 mnt call - 19
+2021-07-08 20:49:40,879 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:40,981 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:40,982 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:40,983 -----------------------------------------------------------------
+2021-07-08 20:49:41,984 mnt call - 20
+2021-07-08 20:49:41,986 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:49:42,086 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 502 49
+2021-07-08 20:49:42,088 Failed to get response No JSON object could be decoded
+2021-07-08 20:49:42,088 -----------------------------------------------------------------

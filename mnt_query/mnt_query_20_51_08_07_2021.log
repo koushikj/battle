@@ -1,0 +1,9 @@
+2021-07-08 20:51:56,894 mnt call - 0
+2021-07-08 20:51:56,901 Starting new HTTPS connection (1): 10.126.68.193:443
+2021-07-08 20:53:06,828 https://10.126.68.193:443 "GET /admin/API/mnt/Telemetry/getAuthTypeInfoData HTTP/1.1" 200 1035
+2021-07-08 20:53:06,831 response = {"authTypeInfoUniqueMacAddressPassedFailed": [{"passedSessionCount": 0, "authenticationProtocol": "PAP_ASCII", "failedFlag": 0, "totalEndpointsCount": 0, "passedFlag": 1, "sessionCount": 0, "failedEndpointsCount": 0, "passedEndpointsCount": 0, "endpointCount": 235025, "failedSessionCount": 0, "authenticationMethod": "PAP_ASCII"}], "externalIdSourceInfo": [], "authTypeInfoUniqueMacAddress": [{"passedSessionCount": 0, "authenticationProtocol": "PAP_ASCII", "failedFlag": 0, "totalEndpointsCount": 235025, "passedFlag": 0, "sessionCount": 0, "failedEndpointsCount": 0, "passedEndpointsCount": 0, "endpointCount": 0, "failedSessionCount": 0, "authenticationMethod": "PAP_ASCII"}], "nadProfileInfo": [], "authTypeInfoUniqueGuidPassedFailed": [], "authTypeInfoSessionCounts": [{"passedSessionCount": 0, "authenticationProtocol": "PAP_ASCII", "failedFlag": 0, "totalEndpointsCount": 0, "passedFlag": 1, "sessionCount": 2014768, "failedEndpointsCount": 0, "passedEndpointsCount": 0, "endpointCount": 0, "failedSessionCount": 0, "authenticationMethod": "PAP_ASCII"}], "activeNadCount": 0, "authTypeInfoUniqueGuid": []}
+2021-07-08 20:53:06,831 endpointCount = 235025
+2021-07-08 20:53:06,831 Failed to get response tuple index out of range
+2021-07-08 20:53:06,831 -----------------------------------------------------------------
+2021-07-08 20:53:07,835 mnt call - 1
+2021-07-08 20:53:07,837 Starting new HTTPS connection (1): 10.126.68.193:443
